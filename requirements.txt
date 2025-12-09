@@ -5,4 +5,5 @@ numpy
 jupyter
 notebook
 ipykernel
-
+scipy
+tqdm

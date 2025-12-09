@@ -1,1 +1,9 @@
 .venv/
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.zip
+
+**/data/
