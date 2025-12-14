@@ -1,9 +1,11 @@
 torch
 torchvision
 matplotlib
+seaborn
 numpy
 jupyter
 notebook
 ipykernel
 scipy
 tqdm
+pillow
